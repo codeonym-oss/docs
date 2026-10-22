@@ -13,3 +13,7 @@ Documentation for the open-source projects of [codeonym-oss](https://github.com/
 : `jtt`: how much estimated work (story points, hours, days…) came into being in a Jira Cloud
   project over a period, per issue and per person. [PyPI](https://pypi.org/project/jira-time-tracker/) ·
   [GitHub](https://github.com/codeonym-oss/jira-time-tracker)
+
+[i18n-ai](https://docs.codeonym.work/projects/i18n-ai/)
+: Generate a website's locales from its source locale tree, with LLM agents that keep every
+  placeholder intact. [GitHub](https://github.com/codeonym-oss/i18n-ai)
